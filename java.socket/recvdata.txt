@@ -1,0 +1,7 @@
+ID : Server 온도 : 40 조도 : 50 습도 : 60
+ID : Server 온도 : 40 조도 : 50 습도 : 66
+ID : Server 온도 : 20 조도 : 30 습도 : 40
+error data
+ID : Server 온도 : 10 조도 : 20 습도 : 30
+ID : Server 온도 : 10 조도 : 20 습도 : 30
+ID : Server 온도 : 20 조도 : 30 습도 : 40
